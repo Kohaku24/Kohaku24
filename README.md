@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Akram Firmansyah
-- 👀 I’m interested in all about computer and network
-- 💞️ I'm a Junior Network Administration
 - 📫 You can reach me in Instagram @akram.f24
 
 <!---
